@@ -3,6 +3,6 @@
 
 
 ## Examples
-![](readme images/mandel1)
+![example 1](readme images/mandel1.png)
 *image_caption*
 
