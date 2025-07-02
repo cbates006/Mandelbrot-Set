@@ -3,6 +3,5 @@
 
 
 ## Examples
-![example 1](https://github.com/cbates006/Mandelbrot-Set/tree/main/ReadMe_Images)
-*image_caption*
+![example1](ReadMe_Images/mandel1.png)
 
